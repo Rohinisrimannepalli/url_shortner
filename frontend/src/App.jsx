@@ -6,7 +6,7 @@ import './index.css';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 import { HeaderMegaMenu } from './Components/Navbar/HeaderMegaMenu';
 import Profile from './Pages/LoginPage/Profile';
-import UrlShortener from './Pages/LoginPage/Urlshortner';
+import UrlShortener from './Pages/LoginPage/UrlShortner';
 
 
 
